@@ -10,22 +10,12 @@
 
 ###
 
-- 🔭 I’m currently working on **world domination**
+- 🔭 I’m currently working on **solar system domination**, and cosmic farms
 
-- 🌱 I’m currently learning **a little of everything**
+- 🌱 I’m currently learning **a little bit of everything**
 
 - 🤝 I’m looking for help with **the conquest**
 
 - 📫 How to reach me **brunosousa002@outlook.com**
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BrunoSSOliveira&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
