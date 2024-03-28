@@ -16,6 +16,6 @@
 
 - 🤝 I’m looking for help with **the conquest**
 
-- 📫 How to reach me **brunosousa002@outlook.com**
+- 📫 How to reach me **bruno.dev.sousa@outlook.com**
 
 ###
